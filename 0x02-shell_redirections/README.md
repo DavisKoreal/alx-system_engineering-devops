@@ -1,3 +1,5 @@
+THESE ARE THE MANDATORY TASKS FOR 0x02-shell_redirections project
+
 0-hello_world - Print "Hello World" followed by a blank line.
 
 1-confused_smiley - Print the confused smiley "(Ôo)'
@@ -36,4 +38,6 @@
 
 18-letteronly - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
-19-AZ - Replace all characters A and c from input to Z and e respectively.
+19-AZ - Replace all characters A and c from input to Z and e respectively
+
+20-.
